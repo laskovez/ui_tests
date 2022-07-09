@@ -17,7 +17,7 @@ from utils.utils import get_driver_path
 class Browser(object):
     driver = None
     browser = config.BROWSER
-    timeout = 5
+    timeout = 10
 
     @classmethod
     def __init__(cls):

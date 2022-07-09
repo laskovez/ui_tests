@@ -1,7 +1,7 @@
 from selenium.common.exceptions import *
 
-from constants.environmets import Environment
 from browser import Browser
+from constants.environmets import Environment
 
 
 class BasePage(object):

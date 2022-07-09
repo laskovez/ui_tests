@@ -1,5 +1,3 @@
-import time
-
 from constants.environmets import Environment
 from pages import BasePage
 

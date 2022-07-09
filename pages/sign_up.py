@@ -1,6 +1,3 @@
-import time
-
-from constants.environmets import Environment
 from pages import BasePage
 from pages.login import LoginLocators as login_loc
 

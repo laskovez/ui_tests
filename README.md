@@ -1,9 +1,9 @@
 # Python Web UI end-to-end automated tests for CMM project 
 
 # Before run the tests:
-1Install Python 3.6+
-2Install dependencies: pip install -r requirements.txt
-3Rename ".env.example" to ".env"
+1. Install Python 3.6+
+2. Install dependencies: pip install -r requirements.txt
+3. Rename ".env.example" to ".env"
 
 ## To run tests on Native browser:
 1. Install Chrome browser 

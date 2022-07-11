@@ -8,7 +8,7 @@ from utils.gmail_api.gmail_api_emails import SendMail
 from utils.utils import get_new_random_email_from_default
 
 
-class TestLogin(BaseTest):
+class TestSignUp(BaseTest):
     login = LoginPage()
     sign_up = SignUpPage()
     emails = SendMail()
